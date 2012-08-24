@@ -1,0 +1,29 @@
+/*
+ general 
+*/
+body{
+	background: url(img/bg.png) !important;
+}
+
+/*
+ * login page
+ */
+
+a[data-role='button']{
+	border-radius: 0px;
+}
+
+ .login-page-btn{
+ 	width: 20%;
+	float:right;
+ }
+
+ 
+ .register-btn{
+ 	
+	
+ }
+ 
+ .login-btn{
+ 	
+ }
