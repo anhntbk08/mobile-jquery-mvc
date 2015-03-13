@@ -1,0 +1,1 @@
+Một khung app làm việc theo MVC , hỗ trợ generateEvent ,addEvenlistener , inheristance ,
